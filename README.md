@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-# Buscador-de-numeros-primos
 Proyecto de practica python y github
 =======
 # Hang_man_play
